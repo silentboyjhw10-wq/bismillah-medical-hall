@@ -1,0 +1,6 @@
+{
+  "appId": "com.bismillahmedicalhall.app",
+  "appName": "Bismillah Medical Hall",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
